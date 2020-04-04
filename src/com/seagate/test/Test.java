@@ -1,2 +1,7 @@
-Public class Test {
+package com.seagate.test;
 
+public class Test {
+	public static void main (String args[]) {
+		System.out.println("Hello Git");
+	}
+}
